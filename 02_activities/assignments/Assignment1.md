@@ -106,6 +106,7 @@ Please do not pick the exact same tables that I have already diagrammed. For exa
 	- <img src="./images/01_farmers_market_conceptual_model.png" width="600">
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
+> The logical data model has been uploaded to the /assignments folder.
 ***
 
 ## Section 2:
@@ -205,5 +206,5 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+An intersting topic that I have come across on social media recently is racial bias on dating apps. Most, if not all, dating apps require users to provide basic information (name, age, location, etc.), some of which are used as filtering criteria. These filtering criteria allow users to "select" the characteristics of their potential mates, such as age range, education level, or even height. In some cases, users can also disclose their ethnic background which can also be used as a filtering option. While the user experience do vary from person to person, many reports have shown that users from certain ethnic groups are more favoured than others on dating apps. From my understanding, the way dating apps work is that the more engagement (likes/messages) you get, the more frequent your profile gets shown to other users. So, users who get 'filtered out' by race will inevitably receive less likes, and thus less likely to be shown to more users. This is an unfortunate side effect of these algorithms, but the social impact is quite significant. I think there already exists certain stereotypes regarding people from the 'un-desirable' ethnic groups even without the presense of dating apps, but the consequences of racial biases on these platforms further feed into the narratives of these stereotypes. While dating apps are considered a useful tool for people to find new connections, it seems that sadly not everyone is reaping the benefits. 
 ```
