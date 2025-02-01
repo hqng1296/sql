@@ -186,5 +186,7 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+I'd say there are two main ethical issues from this story. The first one relates to the use of 'cheap' labour to do the grunt work. While it's typical for graduate students to perform lots of the ground work for their research, I think that the amount of work needed to label these datasets are quite enormous for the students. This issue is also seen in the hiring of Mechaninal Turks. Although it's a common practice to outsource the labour to lower the cost, (we see this often in production factories in developing countries where the labour cost is much cheaper), the pay for these workers are quite unfair. This is blatantly an exploitation of human labour and an unethical practice.
+
+The second ethical issue that I found from reading this article is the lack care for data privacy. From my understanding, data mining is essentially searching the web to find information, and obviously the more data you get, the better. So, there is no incentive for a tight control/ regulation on how extensive these searches would go. For instance, a big sources of data nowadays are from social media. Most of the time, users aren't aware of how much information is being shared with these big tech companies and with the world. Most companies do have disclosure and options for users to not share their data. However, these options are often buried deep in the privacy settings, making it harder for users to access. Therefore, more often than not, our online presence has become part of these data mining operations even without our consent!
 ```
