@@ -54,7 +54,11 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 DOES NOT retain previous information, so it will overwrite old info with new info. For this type, the CUSTOMER_ADDRESS table would include: Customer_ID, Customer_First_Name, Customer_Last_Name, Customer_Address. When changes are implemented by Customer_ID, new data will overwrite old ones.
+
+Type 2 retains previous information by adding new row when data are updated. For this type, the CUSTOMER_ADDRESS table would include: Customer_key, Customer_ID, Customer_First_Name, Customer_Last_Name, Customer_Address. In order to retain previous data, changes will be implemented based on Customer_key, everything else will stay the same. This way we can still associate the same customer to their ID, even with the updated address. 
+
+
 ```
 
 ***
